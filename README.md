@@ -1,19 +1,7 @@
-<p align="center"><img src="https://i.ibb.co/3F6V9JQ/MHDDoS.png" width="400px" height="150px" alt="ddos"></p>
 
-<h1 align="center">MHDDoS - DDoS Attack Script With 56 Methods</h1>
-<em><h5 align="center">(Programming Language - Python 3)</h5></em>
-
-<p align="center">
-<a href="#"><img alt="MH-DDoS forks" src="https://img.shields.io/github/forks/MatrixTM/MHDDoS?style=for-the-badge"></a>
-<a href="#"><img alt="MH-DDoS last commit (main)" src="https://img.shields.io/github/last-commit/MatrixTM/MHDDoS/main?color=green&style=for-the-badge"></a>
-<a href="#"><img alt="MH-DDoS Repo stars" src="https://img.shields.io/github/stars/MatrixTM/MHDDoS?style=for-the-badge&color=yellow"></a>
-<a href="#"><img alt="MH-DDoS License" src="https://img.shields.io/github/license/MatrixTM/MHDDoS?color=orange&style=for-the-badge"></a>
-<a href="https://github.com/MatrixTM/MHDDoS/issues"><img alt="MatrixTM issues" src="https://img.shields.io/github/issues/MatrixTM/MHDDoS?color=purple&style=for-the-badge"></a>
-  
-<p align="center">Please Don't Attack websites without the owners consent.</p>
 
 <p align="center"><img src="https://i.imgur.com/aNrHJcA.png" width="1078" height="433" alt="POWER"></p>
-<p align="center"><img src="https://i.imgur.com/4Q7v2wn.png" width="1078" height="296" alt="SCRIPT"></p>
+
 
 ## Features And Methods
 
@@ -68,83 +56,3 @@
   * <img src="https://help.apple.com/assets/6171BD2C588E52621824409D/6171BD2D588E5262182440A4/en_US/8b631353e070420f47530bf95f1a7fae.png" width="16" height="16" alt="ard"> ARD | Apple Remote Desktop Amplification
   * <img src="https://www.tenforums.com/geek/gars/images/2/types/thumb__emote__esktop__onnection.png" width="16" height="16" alt="rdp"> RDP |  Remote Desktop Protocol Amplification
 
-* ⚙️ Tools - Runs With 
-`
-python3 start.py tools
-`
-  * 🌟 CFIP | Find Real IP Address Of Websites Powered By Cloudflare
-  * 🔪 DNS | Show DNS Records Of Sites
-  * 📍  TSSRV | TeamSpeak SRV Resolver
-  * ⚠  PING | PING Servers
-  * 📌 CHECK | Check If Websites Status
-  * 😎 DSTAT | That Shows Bytes Received, bytes Sent and their amount
-
-* 🎩 Other
-  * ❌ STOP | STOP All Attacks
-  * 🌠 TOOLS | Console Tools
-  * 👑 HELP | Show Usage Script
-
-
-<h1 align="center">
-Our social's💻
-</h2> 
-
-<div align="center">
-   <img src="https://icon-library.com/images/github-icon-vector/github-icon-vector-27.jpg" width="96" height="96" alt="github" />
-   <img src="https://brandlogos.net/wp-content/uploads/2021/11/discord-logo.png"  width="96" height="96" alt="discord" />
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="96" height="96" alt="telegram" />
-</div>
-
- * [Matrix Team Telegram group](https://t.me/DD0SChat)
- * [Matrix community Telegram channel](https://t.me/MatrixORG)
- * [GitHub](https://github.com/MatrixTM)
-### If u Like the project, leave a star on the repository!
-
-## Downloads
-
-You can download it from [GitHub Releases](https://github.com/MatrixTM/MHDDoS/releases)
-
-### Getting Started
-
-**Requirements**
-
-* [dnspython](https://github.com/rthalley/dnspython)
-* [cfscrape](https://github.com/Anorov/cloudflare-scrape)
-* [impacket](https://github.com/SecureAuthCorp/impacket)
-* [requests](https://github.com/psf/requests)
-* [Python3][python3]
-* [PyRoxy](https://github.com/MatrixTM/PyRoxy)
-* [icmplib](https://github.com/ValentinBELYN/icmplib)
-* [certifi](https://github.com/certifi/python-certifi)
-* [psutil](https://github.com/giampaolo/psutil)
-* [yarl](https://github.com/aio-libs/yarl)
----
-
-## Documentation
-
-You can read it from [GitHub Wiki](https://github.com/MatrixTM/MHDDoS/wiki)
-
-**Clone and Install Script**
-
-```shell script
-git clone https://github.com/MatrixTM/MHDDoS.git
-cd MHDDoS
-pip install -r requirements.txt
-```
-
-**One-Line Installing on Fresh VPS**
-
-```shell script
-apt -y update && apt -y install curl wget libcurl4 libssl-dev python3 python3-pip make cmake automake autoconf m4 build-essential git && git clone https://github.com/MatrixTM/MHDDoS.git && cd MH* && pip3 install -r requirements.txt
-```
-
-[python3]: https://python.org 'Python3'
-[github issues]: https://github.com/MatrixTM/MHDDoS/issues 'enter'
-
----
-
-## Need a Cheap Hourly Server? No Problem
-
-<a href="https://aeza.net/?ref=375036"><img src="https://i.ibb.co/wgq9Ly8/aezabanner.png" width="728" height="90" alt="aeza"></a>
-
-#### You can buy an hourly 10Gbps server from [Aeza Hosting](https://aeza.net/?ref=375036) with crypto (100% anonymous).

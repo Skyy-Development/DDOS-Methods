@@ -1,9 +1,9 @@
 
 
-<p align="center"><img src="https://i.imgur.com/aNrHJcA.png" width="1078" height="433" alt="POWER"></p>
 
 
-## Features And Methods
+
+##  Methods
 
  * 💣 Layer7
 
